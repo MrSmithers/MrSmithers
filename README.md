@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSmithers\
 
-I'm a Software Engineer and Web Developer with 5 years experience in the industry. I work with a wide variety of languages, and specialize in PHP. I currently work in the telecommunications industry for BT, building and maintaining internal and external systems for its sister corporation, Plusnet.
+I'm a Software Engineer and Web Developer with 5 years experience in the industry. I work with a wide variety of languages, and specialize in PHP. I currently work Eagle Eye Solutions.
 
 Languages and tools I've worked with:
 - PHP, typically using MVC frameworks
